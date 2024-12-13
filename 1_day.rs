@@ -1,4 +1,4 @@
-"""
+/*
 Day 1
 The Story
 It's 1st December and the countdown has just begun. The elves are busy preparing for the Christmas and Santa is busy checking the list of children who have been good this year. It was supposed to be a smooth day until all of a sudden two of santa's elves burst into Santa's office with a problem.
@@ -25,7 +25,7 @@ fn attach_message_to_present(message: String) {
 However, the code won't compile. Can you help the elves attach the message to the present and print the message too?
 
 Maybe... if there was only a way to get a clone of the message and pass it to the function. 🤔
-"""
+*/
 
 pub fn main() {
     let gift_message = String::from("Merry Christmas! Enjoy your gift!");
